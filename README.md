@@ -27,24 +27,24 @@ I did not encounter any challenges, but I can see someone having trouble enterin
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-The best month to launch a theater play would be May.
+  - The best month to launch a theater play would be May.
 
-The worst month to launch a theater play would be December.
+  - The worst month to launch a theater play would be December.
 
 - What can you conclude about the Outcomes based on Goals?
 
-Campaigns with funding goals of less than $1,000 were successful 76% of the time.
+  - Campaigns with funding goals of less than $1,000 were successful 76% of the time.
 
-Success rate decreases from funding goals of less than $1000 to $25,000 to $29,999, then begins to increase from $25000 to $35,000.
+  - Success rate decreases from funding goals of less than $1000 to $25,000 to $29,999, then begins to increase from $25000 to $35,000.
 
-In total number, most plays were successful in the funding goal range of $1000 to $4999
+  - In total number, most plays were successful in the funding goal range of $1000 to $4999
 
 - What are some limitations of this dataset?
 
-This dataset could be narrowed down to the country Louise wants to put on her theater.
+  - This dataset could be narrowed down to the country Louise wants to put on her theater.
 
 - What are some other possible tables and/or graphs that we could create?
 
-The Outcomes Based on Goals graph would be better represented in a bar graph.
+  - The Outcomes Based on Goals graph would be better represented in a bar graph.
 
-A graph could be made to compare funding goals to pledged amount, to see how far off the failed campaigns were to success.
+  - A graph could be made to compare funding goals to pledged amount, to see how far off the failed campaigns were to success.
