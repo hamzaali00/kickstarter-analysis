@@ -10,12 +10,12 @@ The purpose of this data analysis was to compare launch dates and funding goals 
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 From the data, I took only theater from the parent category, and created three lines: successful, failed, and canceled. I charted this data over time to find the month where theater had the most success.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes Based on Goals](resources/Outcomes_vs_Goals)
+![Outcomes Based on Goals](Resources/Outcomes_vs_Goals)
 
 From the data, I compared funding goals to success rate. Funding goals were taken in ranges, and percentages of successful, failed, and canceled, were evaluated in those ranges. 
 
